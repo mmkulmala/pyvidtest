@@ -2,7 +2,7 @@
 Simple Flask app that opens web cam on laptop and shows it on web.
 
 ## Tech used
-Python 3.9.X and Flask and rather simple html5 page to show webpage.
+Python 3.9.X and Flask and rather simple html5 page to show webcam videostream on webpage.
 
 ## How to run
 Type in root:
